@@ -1,0 +1,25 @@
+# Node.js
+app/frontend/node_modules/
+app/frontend/dist/
+app/frontend/dist-ssr/
+app/frontend/*.local
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+app/backend/database.db
+app/backend/.env
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

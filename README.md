@@ -26,7 +26,6 @@
 
 ```text
 gravityops-ai/
-├── prompts/              # Requirement guidelines & design systems
 ├── app/
     ├── backend/          # FastAPI server, ML logic, tests, DB session setup
     │   ├── db/           # Session management & dotenv config loaders
